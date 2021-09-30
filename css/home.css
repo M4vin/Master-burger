@@ -73,6 +73,10 @@
     .main .home-section .home-main .home-text-container button {
       font-size: 25px;
     }
+    .main .home-section .home-main .home-image-container{
+      margin-bottom: 200px;
+    }
+    
   }
   /* Tablet/Mobile Large */
   @media (max-width: 768px) {
@@ -84,6 +88,9 @@
     }
     .main .home-section .home-main .home-text-container button {
       width: 100%;
+    }
+    .main .home-section .home-main .home-text-container p{
+      text-align: center;
     }
   }
   /* Mobile */
